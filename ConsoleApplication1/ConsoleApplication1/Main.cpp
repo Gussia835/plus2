@@ -4,6 +4,6 @@
 
 int main()
 {
-	MyString MyStr("Hello World");
-	MyStr()
+	
+	
 }
