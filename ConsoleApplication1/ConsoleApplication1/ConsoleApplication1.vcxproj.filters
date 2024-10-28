@@ -24,12 +24,18 @@
     <ClCompile Include="Classwork.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="department.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="String.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Classwork.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="department.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
