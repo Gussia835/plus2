@@ -4,6 +4,7 @@
 
 int main()
 {
+	setlocale(LC_ALL, "ru");
 	Console.WriteLine("Hello World!");
 	
 }
